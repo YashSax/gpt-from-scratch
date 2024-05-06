@@ -4,6 +4,9 @@ A from-scratch implementation of a decoder-only transformer model using Pytorch 
 
 The model implemented in the tutorial is a character-based model, but in this project I decided to implement the WordPiece tokenizer algorithm, as described here: https://www.youtube.com/watch?v=qpv6ms_t_1A&ab_channel=HuggingFace
 
+![image](https://github.com/YashSax/gpt-from-scratch/assets/46911428/e0e1d5da-5caa-4343-89c8-959f7e219dc8)
+
+
 ## Files
 
 `train.ipynb` : The main file that defines and trains the transformer
